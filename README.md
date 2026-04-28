@@ -2,6 +2,12 @@
 
 LowHangingFruits is an asynchronous Python-based web attack surface triage tool designed to quickly identify low-hanging vulnerabilities in web applications.
 
+## Poc
+
+<p align="center">
+  <img src="Screenshot-LowHangingFruits.png" alt="LowHangingFruits Output" width="800"/>
+</p>
+
 ## Features
 
 * Missing security headers detection (CSP, HSTS, X-Frame-Options, etc.)
